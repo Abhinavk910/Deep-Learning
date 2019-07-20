@@ -1,1 +1,0 @@
-Its a NN with one hidden layer having 3 neuron. Activation function in hidden layer is ReLU, and at output is sigmoid.
